@@ -3,7 +3,6 @@
 - 🌱 I’m currently pursuing B.tech cs(AI AND ML)
 - 📫 How to reach me shizuka29112006@gmail.com
 - 😄 Pronouns: diyanshi
-- ⚡ Fun fact: To make people laugh.
 
 <!---
 siya200611/siya200611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
