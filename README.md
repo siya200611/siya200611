@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siya200611
 - 👀 I’m interested in Coding,sports,learning something new,to interaction with new people.
 - 🌱 I’m currently pursuing B.tech cs(AI AND ML)
-- 📫 How to reach me shizuka29112006@gmail.com
+- 📫 How to reach me siya2911200@gmail.com
 - 😄 Pronouns: diyanshi
 
 <!---
